@@ -1,7 +1,7 @@
 
 ## 📖 About This Course
 
-AI agents are quickly becoming popular for their ability to make decisions autonomously and then act upon them. helps you get up to speed with agentic AI capabilities in LlamaIndex, the popular framework that provides several building blocks to quickly create and deploy AI agents with ease.
+AI agents are quickly becoming popular for their ability to make decisions autonomously and then act upon them.  The popular framework that provides several building blocks to quickly create and deploy AI agents with ease.
 
 Along the way, explore a variety of different agentic AI use cases with LlamaIndex to understand popular patterns in agentic AI and how to implement them successfully with LlamaIndex.
 
