@@ -77,8 +77,8 @@ jupyter notebook
 
 This will open a new tab in your browser. Navigate to the `.ipynb` file you wish to run.
 
-Clone. Learn. Build. 
-CLB by Slem
+Clone. Learn. Build. |
+CLB by Slem | 
 Tutor: Kumaran Ponnambalam
 
 <!-- end list -->
