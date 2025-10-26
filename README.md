@@ -1,5 +1,4 @@
 # Hands-On Agentic AI: Building AI Agents with LlamaIndex
-This is the repository for the LinkedIn Learning course `Hands-On Agentic AI: Building AI Agents with LlamaIndex`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ## Course Description
 
