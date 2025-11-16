@@ -1,15 +1,13 @@
 
-## 📖 About This Course
-
 AI agents are quickly becoming popular for their ability to make decisions autonomously and then act upon them.  The popular framework that provides several building blocks to quickly create and deploy AI agents with ease.
 
-Along the way, explore a variety of different agentic AI use cases with LlamaIndex to understand popular patterns in agentic AI and how to implement them successfully with LlamaIndex.
+Explore a variety of different agentic AI use cases with LlamaIndex to understand popular patterns in agentic AI and how to implement them successfully with LlamaIndex.
 
 ---
 
 ## 💻 Repository Contents
 
-This repository contains all the code, Jupyter notebooks, datasets, and supporting files you need to follow along with the course. Each notebook corresponds to a key concept or use case.
+This repository contains all the code, Jupyter notebooks, datasets, and supporting files you need to follow. Each notebook corresponds to a key concept or use case.
 
 * `code_01_XX A basic Llamaindex agent.ipynb`
 * `code_02_XX A Healthcare assistant agent with ReAct.ipynb`
@@ -57,7 +55,7 @@ pip install -r requirements.txt
 
 ### 4\. Set Up API Keys
 
-This course requires API access to an LLM provider, such as OpenAI.
+This requires API access to an LLM provider, such as OpenAI.
 
 1.  Create a file named `.env` in the root of this project.
 
